@@ -1,0 +1,31 @@
+HW1
+
+Problem 1
+Part(a)
+1. Looking up information relevant to the course online
+3. Talking to my classmates about the problem
+5. Asking the course staff for help
+
+Part(b)
+1.gedit 2.emacs 4.vim 7.sublime
+
+Part(c)
+3.Each student can use up to 2 of their 4 grace days on a single assignment.
+
+Part(d)
+2. Send an email to the instructor to let him/her know
+4. Create an issue in your Github issue tracker and assign it to the listed CP/TA
+
+Problem 2
+part(a)
+3.Terminal. 1.Git Bash
+
+Part(b)
+git add hw1q2b.cpp
+git commit -m "hw1q2b"
+git push
+git log
+
+part(c)
+by typing git commit, the users record their snapshot into their histories, and would have to write -m " ". 
+
